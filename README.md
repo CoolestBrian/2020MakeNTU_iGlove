@@ -12,9 +12,9 @@ We use MediaTek Cloud Sandbox (MCS) as a data storge platform, Linkit 7697 as EV
 
 ### Prospect
 
-1.More functions can be added, customized gesture by ML method
-2.User friendly interface(ex. app,website...)
-3.A much concise device by using high-tech material, better performance can be shown
+1.More functions can be added, customized gesture by ML method  
+2.User friendly interface(ex. app,website...)  
+3.A much concise device by using high-tech material, better performance can be shown  
 
 ### Credit
 
