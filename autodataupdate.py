@@ -13,7 +13,7 @@ class testDevice:
     self.key = deviceKey
 
 def create_webdriver(testdeviceid):
-    ###登入 傅譽mcs網頁(以下程式碼)##########################################################
+    ###log in MCS web##########################################################
     options = webdriver.ChromeOptions()
     options.add_argument('--ignore-certificate-errors')
     options.add_argument("--test-type")
@@ -57,7 +57,7 @@ def create_webdriver(testdeviceid):
 
     return driver
 
-    ####登入 傅譽mcs網頁(以上程式碼)#######################################################################
+    #########################################################################################
 
 
 
