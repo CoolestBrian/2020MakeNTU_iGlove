@@ -16,6 +16,11 @@ We use MediaTek Cloud Sandbox (MCS) as a data storge platform, Linkit 7697 as EV
 2.User friendly interface(ex. app,website...)  
 3.A much concise device by using high-tech material, better performance can be shown  
 
+### Source
+1.arduino
+2.Linkit
+3.Cloud sandbox
+
 ### Credit
 
 -[Project-Smart Gloves](https://www.easonchang.com/2018/04/01/smart-gloves/?fbclid=IwAR0YglbQd3nO9DZZoqx5LU5eKvquvqwsBpTWcEG0fowhfSUqHzgriBusZyA#程式碼)
